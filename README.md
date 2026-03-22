@@ -1,3 +1,10 @@
+# BeSA Week 5 Workshop
+## Everyday Productivity Accelerators: Building GenAI Tools with Model Context Protocol (MCP)
+
+This repository is a backup of the work completed during the AWS BeSA workshop (March 2026).
+
+---
+
 # Workshop UI Package
 
 This package contains the pre-built UI components for the "Everyday Productivity Accelerators" workshop.
@@ -51,4 +58,8 @@ This package contains the pre-built UI components for the "Everyday Productivity
 If you encounter issues during the workshop, please ask your instructor for assistance.
 
 ---
-*Built for AWS Workshop*
+## License
+This project is licensed under the **Apache License 2.0**, consistent with the original AWS workshop materials.  
+Copyright 2026 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+*Built for BeSA Week 5: Everyday Productivity Accelerators*
