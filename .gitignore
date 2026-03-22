@@ -1,0 +1,10 @@
+# Folders to ignore (Still best to keep these out)
+venv/
+__pycache__/
+node_modules/
+
+# Sensitive files (CRITICAL: Do not push your AWS/API keys)
+.env
+
+# System files
+.DS_Store
